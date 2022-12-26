@@ -1,2 +1,4 @@
 Web resolusi
 - Membuat apk web yang bermanfaat bagi umat manusia.
+- Membuat forum diskusi
+- Membuat sistem edukasi terpadu
